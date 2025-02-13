@@ -1,6 +1,6 @@
 # 🏦 Virtual Bank System
 
-A simple banking system final project built in **Swift ** as part of the **Programming Fundamentals in Swift Course by Meta**. This project simulates basic banking operations such as account creation, deposits, withdrawals, and balance inquiries using Swift Playground.
+A simple banking system final project built in **Swift ** as part of the **Programming Fundamentals in Swift Course by Meta**. This project simulates basic banking operations such as account creation, deposits, withdrawals, and balance inquiries using Swift Playground. Best practice is to take the .swift file code and then paste it into a blank playground file in either Xcode 16 or Swift Playgrounds app which is available on both  Mac or iPad.
 
 ## ✨ Features
 
