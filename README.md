@@ -13,7 +13,7 @@ A virtual banking system final project built in **Swift ** as part of the **Prog
 ## 🛠 Technologies Used
 
 - **Swift 6**
-- **Swift Playgrounds**
+- **Xcode 16.2**
 
 ## 📜 How It Works
 
